@@ -2,8 +2,6 @@
 
 A simple, fun turtle race game built using Python's `turtle` module. The player bets on which colored turtle will win the race, and then watches the race unfold in a colorful animation!
 
----
-
 ## 🎮 How It Works
 
 - The screen displays 6 turtles of different colors at the starting line.
@@ -19,7 +17,6 @@ A simple, fun turtle race game built using Python's `turtle` module. The player 
 ![Turtle race](https://github.com/user-attachments/assets/0655e426-6c50-4be8-b055-87746791e4e9)
 
 
----
 
 ## 🧠 Concepts Used
 
@@ -29,11 +26,9 @@ A simple, fun turtle race game built using Python's `turtle` module. The player 
 - User input (`screen.textinput`)
 - List and object handling
 
----
 
 ## 🧰 Requirements
 
 - Python 3.x installed
 - No external libraries needed — only built-in modules are used.
 
----
