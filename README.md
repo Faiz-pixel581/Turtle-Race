@@ -13,11 +13,11 @@ A simple, fun turtle race game built using Python's `turtle` module. The player 
 - If the user's selected turtle wins, a congratulatory message is printed.
 - Otherwise, the game announces the winning turtle and tells you that your bet lost.
 
----
 
 ## 📷 Screenshot
 
-> *(Optional: Add a screenshot of the race window here once you run the game and take one.)*
+![Turtle race](https://github.com/user-attachments/assets/0655e426-6c50-4be8-b055-87746791e4e9)
+
 
 ---
 
