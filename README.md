@@ -13,9 +13,9 @@ A simple, fun turtle race game built using Python's `turtle` module. The player 
 
 
 ## 📷 Screenshot
+Turtle Race - ![Turtle race](https://github.com/user-attachments/assets/68a80d24-2b80-4231-a0a1-ede326cd0c5a)
 
-![Turtle race](https://github.com/user-attachments/assets/0655e426-6c50-4be8-b055-87746791e4e9)
-
+User Bet Pop-up Message - ![User Bet Popup Message](https://github.com/user-attachments/assets/b8b8e9ca-fc82-4465-9395-3cda0d797f99)
 
 
 ## 🧠 Concepts Used
