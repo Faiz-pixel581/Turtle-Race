@@ -25,7 +25,7 @@ A simple, fun turtle race game built using Python's `turtle` module. The player 
 - Random number generation (`random.randint`)
 - User input (`screen.textinput`)
 - List and object handling
-
+- Python version - Python 3.10.11
 
 ## 🧰 Requirements
 
